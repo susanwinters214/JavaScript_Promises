@@ -12,11 +12,17 @@ Fork and Close the Exercise Repo to get started: [JavaScript Promises](https://g
 
 The JavaScript Promises exercise has multiple steps:
 
-- [Exercise 1: Select the Needed DOM Elements](#exercise-1-select-the-needed-dom-elements)
-- [Exercise 2: Handle the Promise](#exercise-2-handle-the-promise)
-- [Exercise 3: Update the DOM](#exercise-3-update-the-dom)
+ck [Exercise 1: Select the Needed DOM Elements](#exercise-1-select-the-needed-dom-elements)
+- [JavaScript Promises](#javascript-promises)
+  - [Objective](#objective)
+  - [Getting Started](#getting-started)
+  - [Steps](#steps)
+      - [ck:Exercise 1: Select the Needed DOM Elements](#ckexercise-1-select-the-needed-dom-elements)
+    - [Exercise 2: Handle the Promise](#exercise-2-handle-the-promise)
+    - [Exercise 3: Update the DOM](#exercise-3-update-the-dom)
+  - [Helpful Links](#helpful-links)
 
-### Exercise 1: Select the Needed DOM Elements
+#### ck:Exercise 1: Select the Needed DOM Elements
 
 1. Select the paragraph with `id="error"` and assign it to a variable
 2. Select the unordered list with `id="list"` and assign it to a variable
